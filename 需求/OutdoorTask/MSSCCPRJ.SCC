@@ -1,0 +1,14 @@
+SCC = This is a Source Code Control file.
+
+[BizUIControl.csproj]
+SCC_Aux_Path = 192.168.0.2:8877:VSS
+SCC_Project_Name = $/LAPIS_Common/BizUIControl
+
+[LAPISCommonBLL.csproj]
+SCC_Aux_Path = 192.168.0.2:8877:VSS
+SCC_Project_Name = $/LAPIS_Common/LAPISCommonBLL
+
+[LAPISObjectDefine.csproj]
+SCC_Aux_Path = 192.168.0.2:8877:VSS
+SCC_Project_Name = $/LAPIS_Common/LAPISObjectDefine_Edit
+
